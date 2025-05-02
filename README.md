@@ -1,0 +1,1 @@
+Dessert application that allows the user to search through a list of desert recipes with name, image, and cuisine. User is able to view the chosen dessert and watch a youtube video within the app to watch directions. 
